@@ -1,0 +1,2 @@
+
+spring.main.sources: com.nvisia.microservice.camel.order.OrderManagementRouter
